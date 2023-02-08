@@ -1,2 +1,2 @@
-Hello world
-this is welcome page
+Hello all.
+This is welcome page
